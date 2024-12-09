@@ -1,0 +1,8 @@
+[package]
+name = "shadow"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+libp2p = "0.48.0"
